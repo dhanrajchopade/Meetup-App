@@ -4,7 +4,7 @@ import useFetch from '../useFetch';
 
 const EventDetails = () => {
   const { id } = useParams();
-  const { data: event, loading, error } = useFetch(`https://meetup-app-olive.vercel.app/events/${id}`);
+  const { data: event, loading, error } = useFetch(`https://meetup-app-jade.vercel.app/events/${id}`); 
 
   if (loading) {
     return <div>Loading event details...</div>;
