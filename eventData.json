@@ -1,0 +1,167 @@
+[
+    {
+      "title": "Tech Conference",
+      "type": "Offline",
+      "eventImgUrl": "https://images.pexels.com/photos/2678468/pexels-photo-2678468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "hostedBy": "Tech Experts",
+      "details": "Stay ahead of the game in the dynamic field of tech and software by attending the tech Seminar organized by software Experts. This offline seminar will be held on July 13th from 07:00 AM IST to 09:00 AM at Tech City, situated at 789 Tech Avenue, City. Join industry leaders Mitchell Johnson, Technology Manager, and Michael White, Application Specialist, as they delve into the latest trends and strategies in software development. The seminar is open to individuals aged 21 and above and requires a ticket priced at ₹2,500. The dress code for the event is formal.",
+      "dressCode": "Formal",
+      "ageRestrictions": "21 and above",
+      "eventTags": ["Tech", "Software"],
+      "startingTime": "Thu Jul 13 2025 at 07:00:00 AM IST",
+      "endingTime": "Tue July 13 2025 at 09:00:00 AM",
+      "location": "Tech City 789 Tech Avenue, City",
+      "price": "2500",
+      "speakers": [
+        {
+          "name": "Mitchell Johnson",
+          "title": "Technology Manager",
+          "imgUrl": "https://images.pexels.com/photos/1559193/pexels-photo-1559193.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        },
+        {
+          "name": "Michael White",
+          "title": "Application Specialist",
+          "imgUrl": "https://images.pexels.com/photos/8065734/pexels-photo-8065734.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        }
+      ]
+    },
+
+
+    {
+        "title": "Design Workshop",
+        "type": "Offline",
+        "eventImgUrl": "https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "hostedBy": "Marketing Experts",
+        "details": "Stay ahead of the game in the dynamic field of Design by attending the Design Seminar organized by Design Experts. This offline seminar will be held on July 10th from 02:00 PM to 04:00 PM at Design City, situated at 789 Design Avenue, City. Join industry leaders Sarah Stormbreakers, Design Manager, and Michael Matt, Design Specialist, as they delve into the latest trends and strategies in design. The seminar is open to individuals aged 18 and above and requires a ticket priced at ₹2,000. The dress code for the event is smart formal.",
+        "dressCode": "Smart formals",
+        "ageRestrictions": "18 and above",
+        "eventTags": ["Marketing", "Digital"],
+        "startingTime": "Mon Jul 10 2023 at 02:00:00 PM IST",
+        "endingTime": "Mon Jul 10 2023 at 04:00:00 PM",
+        "location": "Design City 789 Design Avenue, City",
+        "price": "2000",
+        "speakers": [
+          {
+            "name": "Sarah Stormbreaker",
+            "title": "Design Manager",
+            "imgUrl": "https://images.pexels.com/photos/1559193/pexels-photo-1559193.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          },
+          {
+            "name": "Michael Matt",
+            "title": "Design Specialist",
+            "imgUrl": "https://images.pexels.com/photos/8065734/pexels-photo-8065734.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          }
+        ]
+      },
+ 
+    {
+        "title": "Marketing Seminar",
+        "type": "Offline",
+        "eventImgUrl": "https://images.pexels.com/photos/8518733/pexels-photo-8518733.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "hostedBy": "Marketing Experts",
+        "details": "Stay ahead of the game in the dynamic field of digital marketing by attending the Marketing Seminar organized by Marketing Experts. This offline seminar will be held on August 15th from 10:00 AM to 12:00 PM at Marketing City, situated at 789 Marketing Avenue, City. Join industry leaders Sarah Johnson, Marketing Manager, and Michael Brown, SEO Specialist, as they delve into the latest trends and strategies in digital marketing. The seminar is open to individuals aged 18 and above and requires a ticket priced at ₹3,000. The dress code for the event is smart casual.",
+        "dressCode": "Smart casual",
+        "ageRestrictions": "18 and above",
+        "eventTags": ["Marketing", "Digital"],
+        "startingTime": "Tue Aug 15 2023 at 10:00:00 AM IST",
+        "endingTime": "Tue Aug 15 2023 at 12:00:00 AM",
+        "location": "Marketing City 789 Marketing Avenue, City",
+        "price": "3000",
+        "speakers": [
+          {
+            "name": "Sarah Johnson",
+            "title": "Marketing Manager",
+            "imgUrl": "https://images.pexels.com/photos/1559193/pexels-photo-1559193.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          },
+          {
+            "name": "Michael Brown",
+            "title": "SEO Specialist",
+            "imgUrl": "https://images.pexels.com/photos/8065734/pexels-photo-8065734.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          }
+        ]
+      },
+      {
+        "title": "Leadership Seminar",
+        "type": "Online",
+        "eventImgUrl": "https://images.pexels.com/photos/7234411/pexels-photo-7234411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "hostedBy": "Leadership Experts",
+        "details": "Stay ahead of the game in the leadership field by attending the Leadership Seminar organized by Leadership Experts. This online seminar will be held on August 19th from 10:00 AM to 12:00 PM at Hi-Tech City, situated at 789 Marketing Avenue, City. Join industry leaders Nithin Kamath, Marketing Manager, and Nikhil Kamath, CEO , as they delve into the latest trends and strategies in this world of Leadership. The seminar is open to individuals aged 25 and above and requires a ticket priced at ₹6,000. The dress code for the event is suit.",
+        "dressCode": "Suit",
+        "ageRestrictions": "25 and above",
+        "eventTags": ["Leadership", "Management"],
+        "startingTime": "Tue Aug 19 2023 at 10:00:00 AM IST",
+        "endingTime": "Tue Aug 19 2023 at 12:00:00 AM",
+        "location": "Hi-Tech City 789 Marketing Avenue, City",
+        "price": "6000",
+        "speakers": [
+          {
+            "name": "Nitin Kamath",
+            "title": "Marketing Manager",
+            "imgUrl": "https://images.pexels.com/photos/1559193/pexels-photo-1559193.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          },
+          {
+            "name": "Nikhil Kamath",
+            "title": "CEO",
+            "imgUrl": "https://images.pexels.com/photos/8065734/pexels-photo-8065734.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          }
+        ]
+      },
+
+
+      {
+        "title": "Data Analysis Seminar",
+        "type": "Offline",
+        "eventImgUrl": "https://images.pexels.com/photos/6150527/pexels-photo-6150527.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "hostedBy": "Data Experts",
+        "details": "Stay ahead of the game in the dynamic field of data analysis by attending the Data Analysis Seminar organized by Data Experts. This offline seminar will be held on Jan 25th from 10:00 AM to 12:00 PM at Data City, situated at 789 Data Avenue, City. Join industry leaders John Perkins, Data Scientist, and Melinda Hayes, Data Analysis Expert, as they delve into the latest trends and strategies in data Analysis. The seminar is open to individuals aged 18 and above and requires a ticket priced at ₹4,000. The dress code for the event is smart casual.",
+        "dressCode": "Smart casual",
+        "ageRestrictions": "18 and above",
+        "eventTags": ["Data", "Analysis"],
+        "startingTime": "Tue Jan 25 2023 at 10:00:00 AM IST",
+        "endingTime": "Tue Jan 25 2023 at 12:00:00 AM",
+        "location": "Data City 789 Data Avenue, City",
+        "price": "4000",
+        "speakers": [
+          {
+            "name": "John Perkins", 
+            "title": "Data Scientist",
+            "imgUrl": "https://images.pexels.com/photos/1559193/pexels-photo-1559193.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          },
+          {
+            "name": "Melinda Hayes", 
+            "title": "Data Analysis Expert",
+            "imgUrl": "https://images.pexels.com/photos/8065734/pexels-photo-8065734.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          }
+        ]
+      },
+
+      {
+        "title": "Photography Seminar",
+        "type": "Online",
+        "eventImgUrl": "https://images.pexels.com/photos/2608517/pexels-photo-2608517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "hostedBy": "Photography Experts",
+        "details": "Stay ahead of the game in the dynamic field of cinematography and photohraphy by attending this Seminar organized by Industry Experts. This onfline seminar will be held on Feb 15th from 10:00 AM to 12:00 PM at Dream City, situated at 789 Dream Avenue, City. Join industry leaders John Butler, Photography Manager, and Kevin Brown, Cinematography Specialist, as they delve into the latest trends and strategies in the photography and documentation world. The seminar is open to individuals aged 18 and above and requires a ticket priced at ₹9,000. The dress code for the event is formal.",
+        "dressCode": "Formal",
+        "ageRestrictions": "18 and above",
+        "eventTags": ["Photography", "Cinematography"],
+        "startingTime": "Mon Feb 15 2023 at 10:00:00 AM IST",
+        "endingTime": "Mon Feb 15 2023 at 12:00:00 AM",
+        "location": "Dream City 789 Dream Avenue, City",
+        "price": "9000",
+        "speakers": [
+          {
+            "name": "John Butler",
+            "title": "Photography Manager",
+            "imgUrl": "https://images.pexels.com/photos/1559193/pexels-photo-1559193.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          },
+          {
+            "name": "Kevin Brown",
+            "title": "Chinematography Specialist",
+            "imgUrl": "https://images.pexels.com/photos/8065734/pexels-photo-8065734.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          }
+        ]
+      }
+
+
+  ]
+  
