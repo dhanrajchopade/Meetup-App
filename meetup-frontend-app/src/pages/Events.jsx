@@ -3,7 +3,7 @@ import { useState } from 'react';
 import useFetch from '../useFetch';
 
 const Events = () => {
-  const { data, loading, error } = useFetch("https://meetup-app-olive.vercel.app/events");
+  const { data, loading, error } = useFetch("https://meetup-app-jade.vercel.app/events");
   const [filter, setFilter] = useState("all");
   const [searchTerm, setSearchTerm] = useState('');
 
